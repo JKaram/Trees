@@ -6,8 +6,10 @@ While learning how to program we learn about functions, arrays, strings, integer
 
 ## What are Trees?
 
-Trees on the surface are actually easy to understand. Trees represent hierarchy and can be traversed recusivley. Like a real tree we start at the root. The root node is the base to any tree, every node in a tree either has a child or is considered a leaf node (a node with no children). A root node is just like any node, in that it is part of a data structure which consists of one or more fields with links to other nodes and contains a data field; it simply happens to be the first node. Nodes are linked to thier parent or child. 
+Trees on the surface are actually easy to understand. Trees represent hierarchy and can be traversed recusivley. Like a real tree we start at the root. The root node is the base to any tree,every node in a tree either has a child or is considered a leaf node (a node with no children). A root node is just like any node, in that it is part of a data structure which consists of one or more fields with links to other nodes and contains a data field; it simply happens to be the first node. Nodes are linked to thier parent or child. 
 
+
+![yoyo](https://github.com/JKaram/Trees/blob/master/docs/1920px-Tree_(computer_science).svg.png)
 
 
 ## Sources
